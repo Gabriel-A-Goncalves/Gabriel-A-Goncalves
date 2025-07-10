@@ -17,7 +17,7 @@ Sou movido por desafios técnicos e gosto de transformar ideias em sistemas úte
 
 ## 💼 Experiência e Projetos
 
-Atuei no desenvolvimento de sistemas no setor público, como o [DataCor - TJAP](https://github.com/seu-link-se-existir), utilizando:
+Atuei no desenvolvimento de sistemas no setor público, como o [DataCor - TJAP]([https://datacor.tjap.jus.br]), utilizando:
 - Filtros dinâmicos
 - Tabelas interativas
 - Integrações com APIs internas
@@ -35,9 +35,8 @@ Atuei no desenvolvimento de sistemas no setor público, como o [DataCor - TJAP](
 
 ## 📫 Entre em Contato
 
-- 📧 gabriel@email.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 🌐 [Portfólio (opcional)](https://seusite.dev)
+- 📧 aggabriel.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-a-goncalves)
 
 ---
 
